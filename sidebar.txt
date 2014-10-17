@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tim:home|Door43 (tim)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tim|d43-tim repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tim/archive/master.zip|d43-tim.zip]]
+
+**Recent Changes**
+{{changes>ns = tim}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tim|Ethnologue data]]
+
